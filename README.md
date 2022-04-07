@@ -1,5 +1,5 @@
 # data_mining_bnb
-mining data from bnb datasets for various features in python (jupiter notebook)
+mining data from bnb datasets for various features in python
 
 -----------------------
 
